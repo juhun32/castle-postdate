@@ -1,5 +1,8 @@
-### Calple
+### Californian Temple
 
+New product in dev
+
+<del>
 A full-stack web application designed to help couples stay connected and organized through a shared calendar and daily check-in system.
 
 ---
@@ -69,3 +72,4 @@ A full-stack web application designed to help couples stay connected and organiz
 -   **AI-Powered Suggestions**:
 
     For date ideas, reminders, and other personalized content to enhance user engagement
+</del>
