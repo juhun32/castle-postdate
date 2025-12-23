@@ -1,4 +1,4 @@
-### Californian Temple
+### Cal Temple
 
 New product in dev
 
